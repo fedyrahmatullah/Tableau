@@ -24,7 +24,7 @@
   Dashboard ini adalah dashboard exploratory data yang dibuat berdasarkan dataset (dummy) AirBnb New York City sebagai case study pertama dari mini course RevoU.
   Dashboard ini berisi hasil dari analisis dataset yang digunakan sebagai data source untuk membuat visualisasi data yang dapat digunakan untuk menganalisis bisnis airbnb di Ney York City sehingga didapatkan kesimpulan yang dapat digunakan sebagai acuan strategi bisnis (airbnb di NYC).
 Konten Dashboard:
-  - Total Listings by Area (borough)
+- Total Listings by Area (borough)
 -  Average Price by Area (borough)
 - Trend of Listings Properties by Borough on 2021
 - Average Price by Room Type
