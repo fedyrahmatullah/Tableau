@@ -18,7 +18,7 @@
   <b><a href="https://github.com/fedyrahmatullah/Dashboard-Data-of-NYC-Airbnb">1. Dashboard Data of AirBnB in NYC</a></b>
 </p>
 <p align="center">
-  <a href='https://public.tableau.com/app/profile/fedy.rahmatullah'><img src="https://github.com/fedyrahmatullah/Dashboard-Data-of-NYC-Airbnb/tree/main/IMG/Exploratory Data of Airbnb NY.png"></a>
+  <a href='https://public.tableau.com/app/profile/fedy.rahmatullah'><img src="https://github.com/fedyrahmatullah/Dashboard-Data-of-NYC-Airbnb/blob/main/IMG/Exploratory%20Data%20of%20Airbnb%20NY.png?raw=true"></a>
 </p>
 <p align="justify">
   Dashboard ini adalah dashboard exploratory data yang dibuat berdasarkan dataset (dummy) AirBnb New York City sebagai case study pertama dari mini course RevoU.
