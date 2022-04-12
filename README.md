@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href='https://avatars.githubusercontent.com/u/828667?s=200&v=4'><img src="https://avatars.githubusercontent.com/u/828667?s=200&v=4"></a>
+  <a href='https://public.tableau.com/app/profile/fedy.rahmatullah'><img src="https://avatars.githubusercontent.com/u/828667?s=200&v=4"></a>
 </p>
 
 <p align="justify">
