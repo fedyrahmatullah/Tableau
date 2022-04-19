@@ -46,3 +46,23 @@ Konten Dashboard:<br>
 - Confirmed Cases<br>
 - Death<br>
 </p>
+<br>
+<p align="justify">
+  <b><a href="https://github.com/fedyrahmatullah/Indonesia-Covid-Dashboard-Tableau">3. Supermarket Sales Dashboard</a></b>
+</p>
+<p align="center">
+  <a href='https://public.tableau.com/app/profile/fedy.rahmatullah/viz/DashboardTesting_16492927591580/SALESDASHBOARD'><img src="https://github.com/fedyrahmatullah/Tableau/blob/main/Supermarket%20Sales/SALES%20DASHBOARD.png?raw=true"></a>
+  <br>
+  Link Viz:[<a href="https://public.tableau.com/app/profile/fedy.rahmatullah/viz/DashboardTesting_16492927591580/SALESDASHBOARD">Link</a>]
+</p>
+<br>
+<p align="justify">
+  Dashboard ini adalah dashboard yang berisi tampilan dari penjualan supermarket yang kemudian divisualisasikan dengan tableau dashboard.<br>
+Konten Dashboard:<br>
+- Total Sales <br>
+- Member<br>
+- Items Sold<br>
+- Product Sales by Weeks<br>
+- Payment Method<br>
+- Best Product Line<br>
+</p>
