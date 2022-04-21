@@ -19,6 +19,8 @@
 </p>
 <p align="center">
   <a href='https://public.tableau.com/app/profile/fedy.rahmatullah/viz/DashboardDataofAirBnBinNYC/ExploratoryDataofAirbnbNY'><img src="https://github.com/fedyrahmatullah/Dashboard-Data-of-NYC-Airbnb/blob/main/IMG/Exploratory%20Data%20of%20Airbnb%20NY.png?raw=true"></a>
+  Link Viz: [<a href="https://public.tableau.com/app/profile/fedy.rahmatullah/viz/DashboardDataofAirBnBinNYC/ExploratoryDataofAirbnbNY">Link viz</a>]
+  [<a href="https://www.linkedin.com/posts/fedyrahmatullah_exploratory-data-on-airbnb-in-nyc-activity-6917433943877193728-zYmM?utm_source=linkedin_share&utm_medium=android_app">Link Detail Project</a>]
 </p>
 <p align="justify">
   Dashboard ini adalah dashboard exploratory data yang dibuat berdasarkan dataset (dummy) AirBnb New York City sebagai case study pertama dari mini course RevoU.
@@ -36,6 +38,7 @@ Konten Dashboard:<br>
 </p>
 <p align="center">
   <a href='https://public.tableau.com/app/profile/fedy.rahmatullah/viz/IndonesiaCoronavirusDiseaseCOVID-19Dashboard/Covid-19Dashboard'><img src="https://github.com/fedyrahmatullah/Indonesia-Covid-Dashboard-Tableau/blob/main/Covid-19%20Dashboard%20dark.png?raw=true"></a>
+  Link Viz: [<a href="https://public.tableau.com/app/profile/fedy.rahmatullah/viz/IndonesiaCoronavirusDiseaseCOVID-19Dashboard/Covid-19Dashboard">Link viz</a>]
 </p>
 <p align="justify">
   Dashboard ini adalah dashboard yang berisi tampilan visualisasi data covid di indonesia (Data last update: Dec 3, 2021) yang bersumber dari dataset covid di Indonesia di kaggle.<br>
