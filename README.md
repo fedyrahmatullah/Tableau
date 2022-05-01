@@ -86,5 +86,29 @@ Konten Dashboard:<br>
 - Product Category <br>
 - Product<br>
 - Average Price of Product/Product Category (Personal Information) on Dark Web 2021<br>
+</p>
 
+<p align="justify">
+  <b><a href="https://github.com/fedyrahmatullah/Tableau/tree/main/Indonesia%20Mudik%202022">5. Indonesia Mudik 2022</a></b>
+</p>
+<p align="center">
+  <a href='https://public.tableau.com/views/IndonesiaMudik2022/MUDIK2022?:language=en-US&:display_count=n&:origin=viz_share_link'><img src="https://github.com/fedyrahmatullah/Tableau/blob/main/Indonesia%20Mudik%202022/MUDIK2022.png?raw=true"></a>
+  <br>
+  Link Viz: [<a href="https://public.tableau.com/views/IndonesiaMudik2022/MUDIK2022?:language=en-US&:display_count=n&:origin=viz_share_link">Link</a>]
+  <b>"INDONESIA MUDIK 2022"</b>
+</p>
+<br>
+<p align="justify">
+  Dashboard ini adalah dashboard yang berisi visualisasi data yang menunjukkan tentang mudik yang terjadi di Indonesia pada tahun 2022.<br>
+mudik /mu·dik/ v 1 (berlayar, pergi) ke udik (hulu sungai, pedalaman): dari Palembang -- sampai ke Sakayu; 2 cak pulang ke kampung halaman: seminggu menjelang Lebaran sudah banyak orang yang --;<br>
+
+Jumlah pemudik pada Lebaran 2022 diperkirakan melonjak dibandingkan tahun lalu, hal ini karena situasi Covid-19 di Indonesia yang kian membaik sehingga pemerintah memperbolehkan mudik lebaran pada tahun ini. Menurut Survey yang dilakukan Pegipegi, sebanyak 80% responden berencana mudik pada tahun ini.<br>
+
+Ada banyak informasi yang bisa diperoleh seputar mudik di Indonesia pada lebaran tahun 2022 ini seperti:<br>
+- Persentase jumlah pemudik tahun ini dibandingkan tahun lalu,<br>
+- Daerah yang menjadi tujuan sebagian besar pemudik,<br>
+- Kendaraan yang digunakan,<br> 
+- hingga ketahanan stok BBM selama lebaran tahun ini.<br>
+-----
+Data Source: Kementerian Perhubungan Republik Indonesia, BPH Migas, Pegipegi, KATADATAcoid
 </p>
